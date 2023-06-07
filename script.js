@@ -54,9 +54,9 @@ const questions = [
         answers:
         [
             { text: "Turtis" , correct: false},
-            { text: "Turtle" , correct: false},
-            { text: "Tardis" , correct: true},
             { text: "Mill" , correct: false},
+            { text: "Turtle" , correct: false},
+            { text: "Mondasian Cyber-Ship" , correct: true},
         ]
     },
     
