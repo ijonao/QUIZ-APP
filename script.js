@@ -1,32 +1,62 @@
 const questions = [
     {
-        question: "Qual e o maior animal do mundo?",
+        question: "Qual o nome do primeiro filme da saga 'Star Wars' lançado em 1977?",
         answers:
         [
-            { text: "Baleia Azul" , correct: true},
-            { text: "Elefante" , correct: false},
-            { text: "Tubarao" , correct: false},
-            { text: "Giraffa" , correct: false},
+            { text: "Star Wars: Episódio IV - uma nova Esperança" , correct: true},
+            { text: "Star Wars: Episódio V - O Império Contra-Ataca" , correct: false},
+            { text: "Star Wars: Episódio VI - O Retorno de Jedi" , correct: false},
+            { text: "Star Wars: Episódio I - A Ameaça Fantasma" , correct: false},
         ]
     },
     {
-        question: "Qual e o maior animal do mundo?",
+        question: "Qual é o nome do vilão principal na série de filmes 'Harry Potter'?",
         answers:
         [
-            { text: "Elefante" , correct: false},
-            { text: "Tubarao" , correct: false},
-            { text: "Baleia Azul" , correct: true},
-            { text: "Giraffa" , correct: false},
+            { text: "Draco Malfoy" , correct: false},
+            { text: "Severus Snape" , correct: false},
+            { text: "Bellatrix Lestrange" , correct: false},
+            { text: "Lord Voldemort" , correct: true},
         ]
     },
     {
-        question: "Qual e o maior animal do mundo?",
+        question: "Qual é o nome do planeta natal do Superman?",
         answers:
         [
-            { text: "Elefante" , correct: false},
-            { text: "Tubarao" , correct: false},
-            { text: "Baleia Azul" , correct: true},
-            { text: "Giraffa" , correct: false},
+            { text: "Tatooine" , correct: false},
+            { text: "Asgard" , correct: false},
+            { text: "Krypton" , correct: true},
+            { text: "Gotham" , correct: false},
+        ]
+    },
+    {
+        question: "Qual é o nome do personagem principal no jogo 'The Legend of Zelda'?",
+        answers:
+        [
+            { text: "Mario" , correct: false},
+            { text: "Donkey Kong" , correct: false},
+            { text: "Link" , correct: true},
+            { text: "Zelda" , correct: false},
+        ]
+    },
+    {
+        question: "Qual é o nome do criador do universo Marvel Comics?",
+        answers:
+        [
+            { text: "Alan Moore" , correct: false},
+            { text: "Stan Lee" , correct: true},
+            { text: "Frank Miller" , correct: false},
+            { text: "Jack kirby" , correct: false},
+        ]
+    },
+    {
+        question: "Qual é o nome da nave espacial com formato de uma tartaruga na série 'Doctor Who'?",
+        answers:
+        [
+            { text: "Turtis" , correct: false},
+            { text: "Turtle" , correct: false},
+            { text: "Tardis" , correct: true},
+            { text: "Mill" , correct: false},
         ]
     },
     
