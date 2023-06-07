@@ -50,7 +50,7 @@ const questions = [
         ]
     },
     {
-        question: "Qual é o nome da nave espacial com formato de cabine telefônica londrina na série 'Doctor Who'??",
+        question: "Qual é o nome da nave espacial com formato de cabine telefônica londrina na série 'Doctor Who'?",
         answers:
         [
             { text: "Turtis" , correct: false},
