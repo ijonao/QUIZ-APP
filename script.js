@@ -50,13 +50,13 @@ const questions = [
         ]
     },
     {
-        question: "Qual é o nome da nave espacial com formato de uma tartaruga na série 'Doctor Who'?",
+        question: "Qual é o nome da nave espacial com formato de cabine telefônica londrina na série 'Doctor Who'??",
         answers:
         [
             { text: "Turtis" , correct: false},
             { text: "Mill" , correct: false},
             { text: "Turtle" , correct: false},
-            { text: "Mondasian Cyber-Ship" , correct: true},
+            { text: "Tardis" , correct: true},
         ]
     },
     
